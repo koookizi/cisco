@@ -1,0 +1,33 @@
+.header {
+  text-align: center;
+  padding: 20px;
+}
+
+.header-top {
+  display: flex;
+  width: 100%;
+  height: 80px;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-top__logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-logo {
+  color: inherit;
+  text-decoration: inherit;
+    font-family: Roboto;
+  font-size: 70px;
+}
+
+
+.header-bottom__subtitle {
+    color: inherit;
+  text-decoration: inherit;
+    font-family: Roboto;
+  font-size: 20px;
+}
